@@ -1,5 +1,4 @@
-# VMM
-This is my first public repository 
+Hello All
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/varad.marathe.54) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/varad-marathe-257791278/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Varad-Milind-Marathe) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/MaratheVar5823) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:varadmarathe2004@gmail.com) 
